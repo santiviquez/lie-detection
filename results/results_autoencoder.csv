@@ -1,0 +1,17 @@
+Dataset,Model,F1
+BF_CTU_autoencoder,lr,0.8
+BF_CTU_autoencoder,rf,0.8
+BF_CTU_autoencoder,svm,0.8
+BF_CTU_autoencoder,xgboost,0.79
+DT_CC_autoencoder,lr,0.74
+DT_CC_autoencoder,rf,0.74
+DT_CC_autoencoder,svm,0.75
+DT_CC_autoencoder,xgboost,0.74
+DT_JI_autoencoder,lr,0.64
+DT_JI_autoencoder,rf,0.62
+DT_JI_autoencoder,svm,0.64
+DT_JI_autoencoder,xgboost,0.58
+PHQ9_autoencoder,lr,0.98
+PHQ9_autoencoder,rf,0.98
+PHQ9_autoencoder,svm,0.98
+PHQ9_autoencoder,xgboost,0.98
